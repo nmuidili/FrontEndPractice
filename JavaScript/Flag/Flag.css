@@ -1,0 +1,45 @@
+.saffron {
+background-color: #F4C430;
+width: 100px;
+  height: 33.33px;
+}
+
+.green {
+    background-color: #138808;
+    width: 100px;
+    height: 33.33px;
+}
+
+.white{
+    background-color: white;
+    
+    width: 100px;
+    height: 33.33px;
+}
+
+
+
+.wheel {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50px;
+    height: 30px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY1XIy1BS1JLjrEXUKr_IDmJaqHBQUnFWhQylnq1V_Xg&s'); /* Replace 'ashoka-chakra.png' with the path to your image */
+    background-size: cover;
+    border-radius: 100%;
+    cursor: pointer; /* Add cursor pointer to indicate it's clickable */
+  }
+
+  .flag-Size {
+    width: 100px;
+    height: 33.33px;
+  }
+
+  .flag-container {
+    width: 50px;
+    height: 35px;
+
+
+  }
